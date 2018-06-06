@@ -18,8 +18,8 @@ public class FirstSpringBootApplication {
 		SpringApplication.run(FirstSpringBootApplication.class, args);
 	}
 	
-	@RequestMapping(path = "/test",method=  RequestMethod.POST)
+	@RequestMapping(path = "/test",method=  RequestMethod.GET)
     public String hello(@RequestBody Employee employee) {
-        return "Hello security";
+        return "Hello Suraj";
     }
 }
