@@ -1,0 +1,1 @@
+ALTER TABLE s3_file ADD name varchar NOT NULL;

@@ -1,0 +1,1 @@
+update sov_details set status = 'NTU' where status = 'FAILED';

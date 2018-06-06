@@ -1,0 +1,1 @@
+ALTER TABLE sov_details ADD status varchar NOT NULL DEFAULT 'DRAFT';

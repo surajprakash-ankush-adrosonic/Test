@@ -1,0 +1,1 @@
+ALTER TABLE layer DROP CONSTRAINT layer_name_key

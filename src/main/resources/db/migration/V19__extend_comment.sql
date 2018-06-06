@@ -1,0 +1,1 @@
+ALTER TABLE comment ADD company_id bigint;

@@ -1,0 +1,1 @@
+ALTER TABLE company ADD role varchar(30) NOT NULL;

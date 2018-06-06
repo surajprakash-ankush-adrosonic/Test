@@ -1,0 +1,5 @@
+CREATE TABLE geo_result (
+    id BIGSERIAL PRIMARY KEY,
+    address VARCHAR NOT NULL UNIQUE,
+    result VARCHAR NOT NULL
+);

@@ -1,0 +1,1 @@
+ALTER TABLE sov_property ALTER COLUMN zip DROP NOT NULL

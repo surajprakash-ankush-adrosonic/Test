@@ -1,0 +1,1 @@
+ALTER TABLE sov_details ADD inception_date TIMESTAMP WITH TIME ZONE;

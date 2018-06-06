@@ -1,0 +1,1 @@
+DELETE FROM layer where amount = 1;

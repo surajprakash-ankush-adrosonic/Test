@@ -1,0 +1,1 @@
+DELETE FROM quote where id < 1000000;

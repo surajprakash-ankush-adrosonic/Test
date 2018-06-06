@@ -1,0 +1,1 @@
+ALTER TABLE quote RENAME COLUMN amount TO price;

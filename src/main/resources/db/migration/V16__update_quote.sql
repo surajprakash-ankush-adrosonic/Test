@@ -1,0 +1,1 @@
+ALTER TABLE quote ALTER COLUMN percent TYPE numeric(10,6); 

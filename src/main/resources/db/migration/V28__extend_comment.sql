@@ -1,0 +1,1 @@
+ALTER TABLE comment ADD created_at TIMESTAMP WITH TIME ZONE;
