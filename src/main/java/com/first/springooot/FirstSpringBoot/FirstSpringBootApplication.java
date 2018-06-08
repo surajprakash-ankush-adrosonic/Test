@@ -20,6 +20,6 @@ public class FirstSpringBootApplication {
 	
 	@RequestMapping(path = "/test",method=  RequestMethod.GET)
     public String hello() {
-        return "Hello Surajprakash Ankush KING";
+        return "Hello Surajprakash Ankush..";
     }
 }
